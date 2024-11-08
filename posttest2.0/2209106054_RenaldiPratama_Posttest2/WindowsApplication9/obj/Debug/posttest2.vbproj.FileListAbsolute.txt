@@ -1,0 +1,15 @@
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\posttest2.vbproj.GenerateResource.Cache
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\2209106054_RenaldiPratama_Posttest2\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\2209106054_RenaldiPratama_Posttest2\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\2209106054_RenaldiPratama_Posttest2\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\2209106054_RenaldiPratama_Posttest2\WindowsApplication9\obj\Debug\WindowsApplication9.pdb

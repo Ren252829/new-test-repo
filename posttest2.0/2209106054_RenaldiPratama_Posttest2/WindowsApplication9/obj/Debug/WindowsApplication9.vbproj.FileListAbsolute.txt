@@ -1,0 +1,33 @@
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+c:\users\hp\documents\visual studio 2012\Projects\WindowsApplication9\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+C:\Users\HP\Documents\Visual Studio 2012\Projects\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe.config
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.exe
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.xml
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.pdb
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.exe
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.pdb
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\bin\Debug\WindowsApplication9.xml
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form1.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Form2.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.Resources.resources
+D:\Kuliah\Praktikum\Praktikum PemVis\posttest2.0\posttest2.0\WindowsApplication9\obj\Debug\WindowsApplication9.vbproj.GenerateResource.Cache
